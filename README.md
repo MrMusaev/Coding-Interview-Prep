@@ -10,7 +10,7 @@ This repository collects coding questions (and answers) to prepare coding interv
 
 ### Acknowledgements
 
-- [Sherzod Obidov](https://sherxon.com) - a senior software engineer at Google, and this project is also inspired from his similar project [AlgoDS](https://github.com/sherxon/AlgoDS). Some questions are taken from this project.
+- [Sherzod Obidov](https://sherxon.com) - a senior software engineer at Google, and this project is also inspired from his similar project [AlgoDS](https://github.com/sherxon/AlgoDS). Some questions are taken from this project
 - [Educative.io](https://educative.io) - probably creators of the best courses for technical interviews preparation. Most questions are taken from their [Ace Java Coding Interview](https://www.educative.io/path/ace-java-coding-interview) Skill Path
 
 ## Contents 
