@@ -19,7 +19,26 @@ This repository collects coding questions (and answers) to prepare coding interv
 ### Data Structures
 
 #### 1. Array
-1. Remove Even Integers from an Array (*easy*)
+1. Remove even integers from an array (*easy*)
+2. Find minimum/maximum value in the array (*easy*)
+3. Rotate array (*easy*)
+4. Contains duplicate (*easy*)
+5. Merge two sorted arrays (*easy*)
+6. Find two numbers that add up to "n" (*easy*)
+7. First non-repeating integer in array (*easy*)
+8. Find k-th minimum/maximum in array (*easy*)
+9. Find peak element (*easy*)
+10. Maximum subarray (*medium*)
+11. Array of products except itself (*medium*)
+12. Right rotate the array by "n" index (*medium*)
+13. Re-arrange positive and negative values (*medium*)
+14. Re-arrange sorted array in max/min form (*medium*)
+15. Shuffle an Array (*medium*)
+16. Find all duplicates in array (*medium*)
+17. Find Minimum in Rotated Sorted Array (*medium*)
+18. Search in Rotated Array (*medium*)
+19. Longest Increasing Subsequence (*medium*)
+20. Rotate image / matrix (*medium*)
 
 #### 2. Linked List
 
