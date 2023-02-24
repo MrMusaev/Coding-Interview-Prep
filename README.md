@@ -15,6 +15,89 @@ This repository collects coding questions (and answers) to prepare coding interv
 
 ## Contents 
 
-### I. Data Structures
-#### Arrays
+
+### Data Structures
+
+#### 1. Array
 1. Remove Even Integers from an Array (*easy*)
+
+#### 2. Linked List
+
+#### 3. Stack & Queue
+
+#### 4. Recursion (not DS, but better to learn here)
+
+#### 5. Binary Search Tree
+
+#### 6. Graph
+
+#### 7. Trie
+
+#### 8. Heap
+
+#### 9. Hash Table
+
+
+### Algorithms (*coming soon*)
+
+#### 10. Search & Sort
+
+#### 11. Greedy Algorithms
+
+#### 12. Divide and Conquer
+
+#### 13. Dynamic Programming
+
+#### 14. Graph Algorithms
+
+
+### Coding Interview Patterns (*coming soon*)
+
+#### 15. Sliding Window
+
+#### 16. Two Pointers
+
+#### 17. Fast and Slow Pointers
+
+#### 18. Merge Intervals
+
+#### 19. Linked List: In-place reversal
+
+#### 20. Two Heaps
+
+#### 21. K-way Merge
+
+#### 22. Top K elements
+
+#### 23. Modified Binary Search
+
+#### 24. Subsets
+
+#### 25. Greedy Techniques
+
+#### 26. Backtracking
+
+#### 27. Dynamic Programming II
+
+#### 28. Cyclic Sort
+
+#### 29. Topological Sort
+
+#### 30. Stacks
+
+#### 31. Tree Depth First Search
+
+#### 32. Tree Breadth First Search
+
+#### 33. Trie II
+
+#### 34. Hash Map II
+
+#### 35. Knowing What to Track
+
+#### 36. Union Find
+
+#### 37. Custom Data Structures
+
+#### 38. Bitwise Manipulation
+
