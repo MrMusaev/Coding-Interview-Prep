@@ -1,5 +1,5 @@
 # Coding Interview Preparation Path
-This repository collects coding questions (and answers) to prepare the coding interview. The questions categorised based on topics starting from the most common Data Structures, Recursion, Algorithms and Common Coding Interview Patterns in addition to difficulty, company tags and a source link.
+This repository collects coding questions (and answers) to prepare coding interviews. The questions categorised based on topics starting from the most common Data Structures, Recursion, Algorithms and Common Coding Interview Patterns in addition to difficulty, company tags and a source link.
 
 **I've created the project to prepare coding interviews. I'm not an expert in this field (yet), so any contributions and improvements are welcome!**
 
