@@ -14,7 +14,7 @@ This repository collects coding questions (and answers) to prepare coding interv
 - [Educative.io](https://educative.io) - probably creators of the best courses for technical interviews preparation. Most questions are taken from their [Ace Java Coding Interview](https://www.educative.io/path/ace-java-coding-interview) Skill Path
 
 ### Stats (so far)
-* Questions collected - 77
+* Questions collected - 115
 * Full description provided - 0 
 * Methods provided - 0
 * Java solutions - 0
@@ -112,13 +112,50 @@ This repository collects coding questions (and answers) to prepare coding interv
 20. Find the largest element in each row in BT
 
 #### 6. Graph
+1. Breadth First Search: BFS (*easy*)
+2. Depth First Search: DFS (*easy*)
+3. Cycle detection in a directed graph (*easy*)
+4. Find "Mother Vertex" in a Directed Graph (*easy*)
+5. Count the number of edges in an Undirected Graph (*easy*)
+6. Check if a path exists between two vertices (*easy*)
+7. Check if directed graph is Tree or not
+8. Find the shortest path: Dijkstra
+9. Find the shortest path: Bellman-Ford
+10. Remove edge from a Directed Graph
+11. Prim's Minimum Spanning Tree (MST) (*review*)
+12. KrusKal's Minimum Spanning Tree (MST) (*review*)
+13. Topological Sorting (*review*)
+14. Is Graph Bipartite (*review*)
+15. Is Graph Connected (*review*)
+16. Undirected Graph Bridge Detection (*review*)
+17. A* Heuristic Path Finding (*review*)
 
 #### 7. Trie
+1. Trie implementation: insertion, search, deletion
+2. Total number of words in a Trie
+3. Find all the words in a Trie
+4. Sort the elements of an Array using a Trie
+5. Word formation from a Given Dictionary using a Trie 
 
 #### 8. Heap
+1. Max Heap implementation (*easy*)
+2. Min Heap implementation (*easy*)
+3. Convert a Max-Heap to a Min-Heap
+4. Find k the smallest elements in an Array
+5. Find k the largest elements in an Array 
 
 #### 9. Hash Table
-
+1. Hash Table implementation: add, remove, search
+2. Find whether an Array is a subset of another Array
+3. Check if the given Arrays are disjoint
+4. Find symmetric pairs in an Array
+5. Trace the complete path of a journey
+6. Find two pairs in an Array such that a + b = c + d
+7. Find If a Subarray with a Sum Equal to 0 Exists
+8. First Non-Repeating Integer in an Array
+9. Remove Duplicate from a Linked List using Hashing
+10. Union and Intersection of Lists using Hashing
+11. Find Two Numbers that Add up to "n"
 
 ### Algorithms
 
