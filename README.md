@@ -125,10 +125,9 @@ This repository collects coding questions (and answers) to prepare coding interv
 11. Prim's Minimum Spanning Tree (MST) (*review*)
 12. KrusKal's Minimum Spanning Tree (MST) (*review*)
 13. Topological Sorting (*review*)
-14. Is Graph Bipartite (*review*)
-15. Is Graph Connected (*review*)
-16. Undirected Graph Bridge Detection (*review*)
-17. A* Heuristic Path Finding (*review*)
+14. Is Graph connected (*review*)
+15. Undirected Graph bridge detection (*review*)
+16. A* heuristic path finding (*review*)
 
 #### 7. Trie
 1. Trie implementation: insertion, search, deletion
@@ -160,15 +159,61 @@ This repository collects coding questions (and answers) to prepare coding interv
 ### Algorithms
 
 #### 10. Search & Sort
+1. Bubble Sort (*easy*)
+2. Selection Sort (*easy*)
+3. Insertion Sort (*easy*)
+4. Counting Sort
+5. Quick Sort (*medium*)
+6. Merge Sort (*medium*)
+7. Linear Search (*easy*)
+8. Binary Search (*easy*)
+9. Find two numbers that add up to "n" (*easy*)
+10. Search in a rotated array (*easy*)
+11. Find the Median of Two Sorted Arrays
+12. Find duplicates in an Array
+13. Search in Sorted Matrix (*medium*)
+14. Count element occurrence
+15. Search insertion position
+16. Sparse search
+17. Dutch national flag problem
 
 #### 11. Greedy Algorithms
+1. Make a change machine!
+2. Connecting "n" pipes with minimum cost
+3. Find the Egyptian fraction
+4. Minimum number of platforms required for a train station
+5. Find the largest number 
 
 #### 12. Divide and Conquer
+1. Euclidean algorithm
+2. Peak element
+3. Missing number in a sorted Array
+4. Find the closest number
+5. Shuffle integers
+6. Collect coins in minimum steps
+7. Merge a number of sorted arrays
+8. Find the floor and ceiling of a number
+9. Inversion count in an Array
 
 #### 13. Dynamic Programming
+1. Fibonacci series using Recursion
+2. The 0/1 Knapsack Problem
+3. Longest common substring
+4. Shortest common super-sequence
+5. Longest palindromic subsequence
+6. The coin change problem 
+7. Egg dropping problem
+8. Strings interleaving
+9. Edit distance problem
 
 #### 14. Graph Algorithms
-
+1. Calculate the number of nodes in a given graph level
+2. Print the transpose of a Graph
+3. Count the paths between two nodes
+4. Check if a Graph is strongly connected
+5. Print all the connected components in a Graph
+6. Removing a giving edge
+7. Check if a Graph is bipartite
 
 ### Coding Interview Patterns (*coming soon*)
 
