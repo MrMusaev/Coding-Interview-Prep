@@ -14,7 +14,7 @@ This repository collects coding questions (and answers) to prepare coding interv
 - [Educative.io](https://educative.io) - probably creators of the best courses for technical interviews preparation. Most questions are taken from their [Ace Java Coding Interview](https://www.educative.io/path/ace-java-coding-interview) Skill Path
 
 ### Stats (so far)
-* Questions collected - 115
+* Questions collected - 161
 * Full description provided - 0 
 * Methods provided - 0
 * Java solutions - 0
