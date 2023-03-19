@@ -25,7 +25,7 @@ This repository collects coding questions (and answers) to prepare coding interv
 ### Data Structures
 
 #### 1. Array
-1. Remove even integers from an array (*easy*)
+1. [Remove even integers from an array](questions/datastructures/array/01-remove-even-integers.md) (*easy*)
 2. Find minimum/maximum value in the array (*easy*)
 3. Rotate array (*easy*)
 4. Contains duplicate (*easy*)
