@@ -15,9 +15,9 @@ This repository collects coding questions (and answers) to prepare coding interv
 
 ### Stats (so far)
 * Questions collected - 161
-* Full description provided - 0 
-* Methods provided - 0
-* Java solutions - 0
+* Full description provided - 1
+* Methods provided - 1
+* Java solutions - 1
 * Python solutions - 0
 
 ## Contents 
