@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.List;
 
 public class RemoveEvenIntegersS1 {
     public static void main(String[] args) {
@@ -7,7 +8,7 @@ public class RemoveEvenIntegersS1 {
         System.out.println(removeEven(input1));
     }
 
-    private static ArrayList<Integer> removeEven(int[] input) {
+    private static List<Integer> removeEven(int[] input) {
         ArrayList<Integer> result = new ArrayList<>();
 
         for (int number: input) {

@@ -15,7 +15,7 @@ This repository collects coding questions (and answers) to prepare coding interv
 
 ### Stats (so far)
 * Questions collected - 161
-* Full description provided - 1
+* Full description provided - 10
 * Methods provided - 1
 * Java solutions - 1
 * Python solutions - 0
@@ -26,25 +26,25 @@ This repository collects coding questions (and answers) to prepare coding interv
 
 #### 1. Array
 1. [Remove even integers from an array](questions/datastructures/array/01-remove-even-integers.md) (*easy*)
-2. Find minimum/maximum value in the array (*easy*)
-3. Rotate array (*easy*)
-4. Contains duplicate (*easy*)
-5. Merge two sorted arrays (*easy*)
-6. Find two numbers that add up to "n" (*easy*)
-7. First non-repeating integer in array (*easy*)
-8. Find k-th minimum/maximum in array (*easy*)
-9. Find peak element (*easy*)
-10. Maximum subarray (*medium*)
-11. Array of products except itself (*medium*)
-12. Right rotate the array by "n" index (*medium*)
-13. Re-arrange positive and negative values (*medium*)
-14. Re-arrange sorted array in max/min form (*medium*)
-15. Shuffle an Array (*medium*)
-16. Find all duplicates in array (*medium*)
-17. Find Minimum in Rotated Sorted Array (*medium*)
-18. Search in Rotated Array (*medium*)
-19. Longest Increasing Subsequence (*medium*)
-20. Rotate image / matrix (*medium*)
+2. [Find minimum/maximum value in the array](questions/datastructures/array/02-find-min-max-element.md) (*easy*)
+3. [Reverse array](questions/datastructures/array/03-reverse-array.md) (*easy*)
+4. [Contains duplicate](questions/datastructures/array/04-contains-duplicate.md) (*easy*)
+5. [Merge two sorted arrays](questions/datastructures/array/05-merge-two-sorted-array.md) (*easy*)
+6. [Find two numbers that add up to "n"](questions/datastructures/array/06-find-two-numbers-add-up-to-n.md) (*easy*)
+7. [First non-repeating integer in array](questions/datastructures/array/07-first-non-repeating-integer.md) (*easy*)
+8. [Find k-th minimum/maximum in array](questions/datastructures/array/08-find-kth-min-max-element.md) (*medium*)
+9. [Find peak element](questions/datastructures/array/09-find-peak-element.md) (*medium*)
+10. [Maximum sum subarray](questions/datastructures/array/10-maximum-subarray.md) (*medium*)
+11. [Array of products except itself](questions/datastructures/array/11-products-except-itself.md) (*medium*)
+12. [Right rotate the array by "n" index](questions/datastructures/array/12-right-left-rotate-array-the-array-n-index.md) (*medium*)
+13. [Re-arrange positive and negative values](questions/datastructures/array/13-rearrange-positive-and-negative-values.md) (*medium*)
+14. [Re-arrange sorted array in max/min form](questions/datastructures/array/14-rearrange-sorted-array-in-max-min-form.md) (*medium*)
+15. [Shuffle an Array](questions/datastructures/array/15-shuffle-array.md) (*medium*)
+16. [Find all duplicates in array](questions/datastructures/array/16-find-all-duplicates.md) (*medium*)
+17. [Find Minimum in Rotated Sorted Array](questions/datastructures/array/17-find-minimum-rotated-sorted-array.md) (*medium*)
+18. [Search in Rotated Array](questions/datastructures/array/18-search-in-rotated-array.md) (*medium*)
+19. [Longest Increasing Subsequence](questions/datastructures/array/19-longest-increasing-subsequence.md) (*medium*)
+20. [Rotate image / matrix](questions/datastructures/array/20-rotate-image-matrix.md) (*medium*)
 
 #### 2. Linked List
 1. Singly Linked List Implementation: addition, insertion, search, deletion (*easy*)
